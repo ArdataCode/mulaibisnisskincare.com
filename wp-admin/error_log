@@ -1,0 +1,768 @@
+[28-Feb-2023 02:04:55 UTC] ***ERROR*** Error building archive
+[28-Feb-2023 02:08:24 UTC] ***ERROR*** Error building archive
+[04-Mar-2023 05:03:37 UTC] DUP:Error deactivate license: ACTIVATION_RESPONSE_INVALID
+[10-Jan-2024 03:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[12-Jan-2024 03:49:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[14-Jan-2024 03:47:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[15-Jan-2024 15:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[17-Jan-2024 03:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[18-Jan-2024 15:37:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[30-Jan-2024 03:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[01-Feb-2024 03:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[02-Feb-2024 03:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[05-Feb-2024 15:39:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[08-Feb-2024 03:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[10-Feb-2024 03:47:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[16-Feb-2024 03:47:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[20-Feb-2024 15:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[22-Feb-2024 00:08:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[23-Feb-2024 15:36:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[24-Feb-2024 11:32:14 UTC] PHP Warning:  Undefined variable $paged in /home/websit19/mulaibisnisskincare.com/wp-admin/theme-install.php on line 311
+[26-Feb-2024 15:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[28-Feb-2024 00:09:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[29-Feb-2024 00:10:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[01-Mar-2024 03:18:27 UTC] PHP Warning:  chmod(): No such file or directory in /home/websit19/mulaibisnisskincare.com/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[01-Mar-2024 03:18:49 UTC] PHP Warning:  chmod(): No such file or directory in /home/websit19/mulaibisnisskincare.com/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[01-Mar-2024 03:18:51 UTC] PHP Fatal error:  Uncaught Error: Class "\ElementorPro\Modules\QueryControl\Module" not found in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php:82
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/plugin.php(375): ElementorPro\Core\Modules_Manager->__construct()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): ElementorPro\Plugin->on_elementor_init()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor/includes/plugin.php(658): do_action()
+#5 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init()
+#6 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/websit19/mulaibisnisskincare.com/wp-settings.php(643): do_action()
+#9 /home/websit19/mulaibisnisskincare.com/wp-config.php(79): require_once('/home/websit19/...')
+#10 /home/websit19/mulaibisnisskincare.com/wp-load.php(50): require_once('/home/websit19/...')
+#11 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(22): require_once('/home/websit19/...')
+#12 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php on line 82
+[01-Mar-2024 03:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "\ElementorPro\Modules\QueryControl\Module" not found in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php:82
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/plugin.php(375): ElementorPro\Core\Modules_Manager->__construct()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): ElementorPro\Plugin->on_elementor_init()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor/includes/plugin.php(658): do_action()
+#5 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init()
+#6 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/websit19/mulaibisnisskincare.com/wp-settings.php(643): do_action()
+#9 /home/websit19/mulaibisnisskincare.com/wp-config.php(79): require_once('/home/websit19/...')
+#10 /home/websit19/mulaibisnisskincare.com/wp-load.php(50): require_once('/home/websit19/...')
+#11 /home/websit19/mulaibisnisskincare.com/wp-admin/admin.php(34): require_once('/home/websit19/...')
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/update-core.php(10): require_once('/home/websit19/...')
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php on line 82
+[01-Mar-2024 03:19:14 UTC] PHP Fatal error:  Uncaught Error: Class "\ElementorPro\Modules\QueryControl\Module" not found in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php:82
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/plugin.php(375): ElementorPro\Core\Modules_Manager->__construct()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): ElementorPro\Plugin->on_elementor_init()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor/includes/plugin.php(658): do_action()
+#5 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init()
+#6 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/websit19/mulaibisnisskincare.com/wp-settings.php(643): do_action()
+#9 /home/websit19/mulaibisnisskincare.com/wp-config.php(79): require_once('/home/websit19/...')
+#10 /home/websit19/mulaibisnisskincare.com/wp-load.php(50): require_once('/home/websit19/...')
+#11 /home/websit19/mulaibisnisskincare.com/wp-admin/admin.php(34): require_once('/home/websit19/...')
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/update-core.php(10): require_once('/home/websit19/...')
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php on line 82
+[01-Mar-2024 03:19:17 UTC] PHP Fatal error:  Uncaught Error: Class "\ElementorPro\Modules\QueryControl\Module" not found in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php:82
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/plugin.php(375): ElementorPro\Core\Modules_Manager->__construct()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): ElementorPro\Plugin->on_elementor_init()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor/includes/plugin.php(658): do_action()
+#5 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init()
+#6 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/websit19/mulaibisnisskincare.com/wp-settings.php(643): do_action()
+#9 /home/websit19/mulaibisnisskincare.com/wp-config.php(79): require_once('/home/websit19/...')
+#10 /home/websit19/mulaibisnisskincare.com/wp-load.php(50): require_once('/home/websit19/...')
+#11 /home/websit19/mulaibisnisskincare.com/wp-admin/admin.php(34): require_once('/home/websit19/...')
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/update-core.php(10): require_once('/home/websit19/...')
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php on line 82
+[01-Mar-2024 03:19:24 UTC] PHP Fatal error:  Uncaught Error: Class "\ElementorPro\Modules\QueryControl\Module" not found in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php:82
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/plugin.php(375): ElementorPro\Core\Modules_Manager->__construct()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): ElementorPro\Plugin->on_elementor_init()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor/includes/plugin.php(658): do_action()
+#5 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init()
+#6 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/websit19/mulaibisnisskincare.com/wp-settings.php(643): do_action()
+#9 /home/websit19/mulaibisnisskincare.com/wp-config.php(79): require_once('/home/websit19/...')
+#10 /home/websit19/mulaibisnisskincare.com/wp-load.php(50): require_once('/home/websit19/...')
+#11 /home/websit19/mulaibisnisskincare.com/wp-admin/admin.php(34): require_once('/home/websit19/...')
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/update-core.php(10): require_once('/home/websit19/...')
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php on line 82
+[05-Mar-2024 02:42:16 UTC] PHP Fatal error:  Uncaught Error: Class "\ElementorPro\Modules\QueryControl\Module" not found in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php:82
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/plugin.php(375): ElementorPro\Core\Modules_Manager->__construct()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): ElementorPro\Plugin->on_elementor_init()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor/includes/plugin.php(658): do_action()
+#5 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): Elementor\Plugin->init()
+#6 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/websit19/mulaibisnisskincare.com/wp-settings.php(643): do_action()
+#9 /home/websit19/mulaibisnisskincare.com/wp-config.php(79): require_once('/home/websit19/...')
+#10 /home/websit19/mulaibisnisskincare.com/wp-load.php(50): require_once('/home/websit19/...')
+#11 /home/websit19/mulaibisnisskincare.com/wp-admin/admin.php(34): require_once('/home/websit19/...')
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/index.php(10): require_once('/home/websit19/...')
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-content/plugins/elementor-pro/core/modules-manager.php on line 82
+[05-Mar-2024 07:09:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[09-Mar-2024 15:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[12-Mar-2024 00:08:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[18-Mar-2024 03:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[21-Mar-2024 15:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[25-Mar-2024 04:34:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Mar-2024 15:38:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[03-Apr-2024 04:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[08-Apr-2024 15:36:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[11-Apr-2024 03:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[16-Apr-2024 03:33:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[17-Apr-2024 03:33:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[23-Apr-2024 03:32:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[25-Apr-2024 03:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/mulaibisnisskincare.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[26-Apr-2024 08:23:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(7471): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfAlerts.php(96): wordfence::alert()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfCentralAPI.php(814): wfWordfenceDeactivatedAlert->send()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wfCentral::sendAlertCallback()
+#8 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(108): do_action()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::uninstallPlugin()
+#12 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#14 /home/websit19/mulaibisnisskincare.com/wp-admin/includes/plugin.php(828): do_action()
+#15 /home/websit19/mulaibisnisskincare.com/wp-admin/plugins.php(211): deactivate_plugins()
+#16 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[26-Apr-2024 08:23:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(7471): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfAlerts.php(96): wordfence::alert()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfCentralAPI.php(814): wfWordfenceDeactivatedAlert->send()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wfCentral::sendAlertCallback()
+#8 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(108): do_action()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::uninstallPlugin()
+#12 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#14 /home/websit19/mulaibisnisskincare.com/wp-admin/includes/plugin.php(828): do_action()
+#15 /home/websit19/mulaibisnisskincare.com/wp-admin/plugins.php(211): deactivate_plugins()
+#16 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[26-Apr-2024 08:23:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(7471): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfAlerts.php(96): wordfence::alert()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfCentralAPI.php(814): wfWordfenceDeactivatedAlert->send()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wfCentral::sendAlertCallback()
+#8 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(108): do_action()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::uninstallPlugin()
+#12 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#14 /home/websit19/mulaibisnisskincare.com/wp-admin/includes/plugin.php(828): do_action()
+#15 /home/websit19/mulaibisnisskincare.com/wp-admin/plugins.php(211): deactivate_plugins()
+#16 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[26-Apr-2024 08:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(7471): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfAlerts.php(96): wordfence::alert()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfCentralAPI.php(814): wfWordfenceDeactivatedAlert->send()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wfCentral::sendAlertCallback()
+#8 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(108): do_action()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::uninstallPlugin()
+#12 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#14 /home/websit19/mulaibisnisskincare.com/wp-admin/includes/plugin.php(828): do_action()
+#15 /home/websit19/mulaibisnisskincare.com/wp-admin/plugins.php(211): deactivate_plugins()
+#16 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[26-Apr-2024 08:26:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/mulaibisnisskincare.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(7471): wp_mail()
+#5 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfAlerts.php(96): wordfence::alert()
+#6 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wfCentralAPI.php(814): wfWordfenceDeactivatedAlert->send()
+#7 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wfCentral::sendAlertCallback()
+#8 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/websit19/mulaibisnisskincare.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(108): do_action()
+#11 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(324): wordfence::uninstallPlugin()
+#12 /home/websit19/mulaibisnisskincare.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /home/websit19/mulaibisnisskincare.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#14 /home/websit19/mulaibisnisskincare.com/wp-admin/includes/plugin.php(828): do_action()
+#15 /home/websit19/mulaibisnisskincare.com/wp-admin/plugins.php(211): deactivate_plugins()
+#16 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-includes/PHPMailer/PHPMailer.php on line 881

@@ -1,0 +1,408 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2023-02-28 02:00:17
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.5.9.1
+WORDPRESS:	6.1.1
+PHP INFO:	7.4.33 | SAPI: litespeed
+SERVER:		LiteSpeed 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+RUN TYPE:	Schedule
+MEMORY STACK:	15MB
+ARCHIVE ENGINE: ZipArchive: multi-thread
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+TABLES: total: 48 | filtered:0 | create:48
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 4
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] wp_users NUM ROWS: 4
+INSERT ROWS TABLE[INDEX:1] wp_usermeta NUM ROWS: 103
+INSERT ROWS TABLE[INDEX:2] wp_bv_fw_requests NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:3] wp_bv_ip_store NUM ROWS: 6105
+INSERT ROWS TABLE[INDEX:4] wp_bv_lp_requests NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:5] wp_commentmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:6] wp_comments NUM ROWS: 6
+INSERT ROWS TABLE[INDEX:7] wp_duplicator_pro_entities NUM ROWS: 7
+INSERT ROWS TABLE[INDEX:8] wp_duplicator_pro_packages NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:9] wp_e_events NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:10] wp_e_submissions NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:11] wp_e_submissions_actions_log NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:12] wp_e_submissions_values NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:13] wp_links NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:14] wp_options NUM ROWS: 326
+INSERT ROWS TABLE[INDEX:15] wp_postmeta NUM ROWS: 4057
+INSERT ROWS TABLE[INDEX:16] wp_posts NUM ROWS: 609
+INSERT ROWS TABLE[INDEX:17] wp_termmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:18] wp_terms NUM ROWS: 10
+INSERT ROWS TABLE[INDEX:19] wp_term_relationships NUM ROWS: 40
+INSERT ROWS TABLE[INDEX:20] wp_term_taxonomy NUM ROWS: 10
+INSERT ROWS TABLE[INDEX:21] wp_wfblockediplog NUM ROWS: 106
+INSERT ROWS TABLE[INDEX:22] wp_wfblocks7 NUM ROWS: 16
+INSERT ROWS TABLE[INDEX:23] wp_wfconfig NUM ROWS: 269
+INSERT ROWS TABLE[INDEX:24] wp_wfcrawlers NUM ROWS: 37
+INSERT ROWS TABLE[INDEX:25] wp_wffilechanges NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:26] wp_wffilemods NUM ROWS: 11378
+INSERT ROWS TABLE[INDEX:27] wp_wfhits NUM ROWS: 158
+INSERT ROWS TABLE[INDEX:28] wp_wfhoover NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:29] wp_wfissues NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:30] wp_wfknownfilelist NUM ROWS: 11378
+INSERT ROWS TABLE[INDEX:31] wp_wflivetraffichuman NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:32] wp_wflocs NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:33] wp_wflogins NUM ROWS: 9
+INSERT ROWS TABLE[INDEX:34] wp_wfls_2fa_secrets NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:35] wp_wfls_settings NUM ROWS: 21
+INSERT ROWS TABLE[INDEX:36] wp_wfnotifications NUM ROWS: 4
+INSERT ROWS TABLE[INDEX:37] wp_wfpendingissues NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:38] wp_wfreversecache NUM ROWS: 19
+INSERT ROWS TABLE[INDEX:39] wp_wfsnipcache NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:40] wp_wfstatus NUM ROWS: 1100
+INSERT ROWS TABLE[INDEX:41] wp_wftrafficrates NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:42] wp_wpfm_backup NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:43] wp_yoast_indexable NUM ROWS: 109
+INSERT ROWS TABLE[INDEX:44] wp_yoast_indexable_hierarchy NUM ROWS: 93
+INSERT ROWS TABLE[INDEX:45] wp_yoast_migrations NUM ROWS: 23
+INSERT ROWS TABLE[INDEX:46] wp_yoast_primary_term NUM ROWS: 7
+INSERT ROWS TABLE[INDEX:47] wp_yoast_seo_links NUM ROWS: 1
+SQL FILE SIZE CHECK OK, SIZE: 39588867
+SQL CREATED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+SQL FILE SIZE: 37.75MB
+SQL FILE TIME: 2023-02-28 02:00:33
+SQL RUNTIME: 16.526 sec.
+MEMORY STACK: 7MB
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][NOTICE] MSG:mysqli_query(): send of 32536 bytes failed with errno=32 Broken pipe [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/class-wpdb.php|LINE:2187]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][NOTICE] MSG:Undefined variable: a [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/cron.php|LINE:1035]
+[PHP ERR][WARN] MSG:ZipArchive::close(): Invalid argument [CODE:2|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-content/plugins/duplicator-pro/src/Utils/ZipArchiveExtended.php|LINE:165]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][NOTICE] MSG:mysqli_query(): send of 32540 bytes failed with errno=32 Broken pipe [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/class-wpdb.php|LINE:2187]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][NOTICE] MSG:mysqli_query(): send of 32536 bytes failed with errno=32 Broken pipe [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/class-wpdb.php|LINE:2187]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][NOTICE] MSG:Undefined variable: a [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/cron.php|LINE:1035]
+[PHP ERR][WARN] MSG:ZipArchive::close(): Invalid argument [CODE:2|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-content/plugins/duplicator-pro/src/Utils/ZipArchiveExtended.php|LINE:165]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][WARN] MSG:ZipArchive::close(): Renaming temporary file failed: No such file or directory [CODE:2|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-content/plugins/duplicator-pro/src/Utils/ZipArchiveExtended.php|LINE:165]
+
+
+====================================================================
+!RUNTIME ERROR!
+---------------------------------------------------------------------
+MESSAGE:
+ZipArchive close failure during database.sql phase. **FIX:  Click to switch archive engine to DupArchive..
+DETAILS:
+(no detail)
+---------------------------------------------------------------------
+TRACE:
+1. class.pack.archive.zip.php : error (697)
+2. class.pack.archive.zip.php : setFix (680)
+3. class.pack.archive.zip.php : setDupArchiveSwitchFix (445)
+4. class.pack.archive.zip.php : createMultiThreaded (80)
+5. class.pack.archive.php : create (198)
+6. class.pack.php : buildFile (1750)
+7. class.pack.runner.php : run_build (462)
+8. class.web.services.php : process (261)
+9. class-wp-hook.php : process_worker (308)
+10. class-wp-hook.php : apply_filters (332)
+11. plugin.php : do_action (529)
+12. admin-ajax.php : do_action (203)
+====================================================================
+
+
+[PHP ERR][NOTICE] MSG:mysqli_query(): send of 56 bytes failed with errno=32 Broken pipe [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/class-wpdb.php|LINE:2187]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][NOTICE] MSG:mysqli_query(): send of 32539 bytes failed with errno=32 Broken pipe [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/class-wpdb.php|LINE:2187]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][NOTICE] MSG:Undefined variable: a [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/cron.php|LINE:1035]
+[PHP ERR][WARN] MSG:ZipArchive::close(): Invalid argument [CODE:2|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-content/plugins/duplicator-pro/src/Utils/ZipArchiveExtended.php|LINE:165]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][NOTICE] MSG:mysqli_query(): send of 56 bytes failed with errno=32 Broken pipe [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/class-wpdb.php|LINE:2187]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][NOTICE] MSG:mysqli_query(): send of 32537 bytes failed with errno=32 Broken pipe [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/class-wpdb.php|LINE:2187]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][NOTICE] MSG:mysqli_query(): send of 32537 bytes failed with errno=32 Broken pipe [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/class-wpdb.php|LINE:2187]
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  /home/jawa2439/public_html/mulaibisnisskincare.com
+ARCHIVE FILE: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	293.39MB
+STATS:	Dirs 2,119 | Files 13,443 | Total 15,562
+SQL ADDED: 20230228_020011_NewSchedule_maklonkosmet_417104f7cfcd9e1d4442_20230228020011_database.sql
+[PHP ERR][WARN] MSG:ZipArchive::close(): Renaming temporary file failed: No such file or directory [CODE:2|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-content/plugins/duplicator-pro/src/Utils/ZipArchiveExtended.php|LINE:165]
+
+
+====================================================================
+!RUNTIME ERROR!
+---------------------------------------------------------------------
+MESSAGE:
+ZipArchive close failure during database.sql phase. **FIX:  Click to switch archive engine to DupArchive..
+DETAILS:
+(no detail)
+---------------------------------------------------------------------
+TRACE:
+1. class.pack.archive.zip.php : error (697)
+2. class.pack.archive.zip.php : setFix (680)
+3. class.pack.archive.zip.php : setDupArchiveSwitchFix (445)
+4. class.pack.archive.zip.php : createMultiThreaded (80)
+5. class.pack.archive.php : create (198)
+6. class.pack.php : buildFile (1750)
+7. class.pack.runner.php : run_build (462)
+8. class.web.services.php : process (261)
+9. class-wp-hook.php : process_worker (308)
+10. class-wp-hook.php : apply_filters (332)
+11. plugin.php : do_action (529)
+12. admin-ajax.php : do_action (203)
+====================================================================
+
+
+[PHP ERR][NOTICE] MSG:Undefined variable: a [CODE:8|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-includes/cron.php|LINE:1035]
+[PHP ERR][WARN] MSG:ZipArchive::close(): Invalid argument [CODE:2|FILE:/home/jawa2439/public_html/mulaibisnisskincare.com/wp-content/plugins/duplicator-pro/src/Utils/ZipArchiveExtended.php|LINE:165]

@@ -1,0 +1,12 @@
+[08-Feb-2024 07:12:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_home() in /home/websit19/mulaibisnisskincare.com/wp-content/themes/twentystd/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-content/themes/twentystd/index.php on line 10
+[10-Feb-2024 02:16:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_home() in /home/websit19/mulaibisnisskincare.com/wp-content/themes/twentystd/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-content/themes/twentystd/index.php on line 10
+[24-Feb-2024 18:32:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function is_home() in /home/websit19/mulaibisnisskincare.com/wp-content/themes/twentystd/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/mulaibisnisskincare.com/wp-content/themes/twentystd/index.php on line 10

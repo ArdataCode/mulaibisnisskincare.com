@@ -1,0 +1,1215 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Nutrist - Template kit for Food organic & Nutrition Service",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/preview.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Nutrist V1 - Error 404",
+            "screenshot": "screenshots\/nutrist-v1-error-404.jpg",
+            "source": "templates\/nutrist-v1-error-404.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/?elementor_library=nutrist-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Nutrist V1 - Single Post",
+            "screenshot": "screenshots\/nutrist-v1-single-post.jpg",
+            "source": "templates\/nutrist-v1-single-post.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/?elementor_library=nutrist-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Nutrist V1 - Archive",
+            "screenshot": "screenshots\/nutrist-v1-archive.jpg",
+            "source": "templates\/nutrist-v1-archive.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/?elementor_library=nutrist-v1-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Nutrist V1 - Footer",
+            "screenshot": "screenshots\/nutrist-v1-footer.jpg",
+            "source": "templates\/nutrist-v1-footer.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/?elementor_library=nutrist-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Nutrist V1 - Header",
+            "screenshot": "screenshots\/nutrist-v1-header.jpg",
+            "source": "templates\/nutrist-v1-header.json",
+            "preview_url": "https:\/\/preview.moxcreative.com\/nutrist\/?elementor_library=nutrist-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Material Design Icons for Page Builders",
+            "version": "1.4.1",
+            "file": "material-design-icons-for-elementor\/material-design-icons-for-elementor.php",
+            "author": "Photon WP"
+        },
+        {
+            "name": "Element Pack Lite - Addons for Elementor",
+            "version": "3.7.1",
+            "file": "bdthemes-element-pack-lite\/bdthemes-element-pack-lite.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.8.7",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bowl-with-spicy-vegetables-on-white-background.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/bowl-with-spicy-vegetables-on-white-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 63110,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZM265CY"
+        },
+        {
+            "filename": "spicy-vegetables-on-white-background-space-for-text.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/spicy-vegetables-on-white-background-space-for-text-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 53425,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6FGDLS"
+        },
+        {
+            "filename": "group-of-spicy-vegetables-on-white-background.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/group-of-spicy-vegetables-on-white-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 64407,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZCJRRL5"
+        },
+        {
+            "filename": "portrait-of-a-woman-dietitian-with-schemes-on-the-topic-of-nutrition.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/portrait-of-a-woman-dietitian-with-schemes-on-the-topic-of-nutrition-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 96522,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QY8XMV3"
+        },
+        {
+            "filename": "healthy-food-and-sport-nutrition.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/healthy-food-and-sport-nutrition-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 70200,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WWQYRKW"
+        },
+        {
+            "filename": "cheerful-blonde-nutritionist-sitting-near-laptop-and-glass-of-fresh-orange-juice.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/cheerful-blonde-nutritionist-sitting-near-laptop-and-glass-of-fresh-orange-juice-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 69416,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L2HFN9E"
+        },
+        {
+            "filename": "smiling-old-male-doctor-in-glasses-and-white-uniform-sit-at-desk-in-hospital-work-on-laptop.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/smiling-old-male-doctor-in-glasses-and-white-uniform-sit-at-desk-in-hospital-work-on-laptop-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 68216,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WJJZYVH"
+        },
+        {
+            "filename": "vegetables.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/vegetables-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/nutrist-v1-archive.json",
+                    "name": "Nutrist V1 - Archive"
+                }
+            ],
+            "filesize": 73521,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9849L2L"
+        },
+        {
+            "filename": "vegetables-for-proper-nutrition-diet-for-healthcare.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/vegetables-for-proper-nutrition-diet-for-healthcare-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 92111,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-32PYG8F"
+        },
+        {
+            "filename": "vegetables-1.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/vegetables-1-800x596.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 85867,
+            "dimensions": [
+                1080,
+                804
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y26V7KS"
+        },
+        {
+            "filename": "dashed.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/dashed-800x191.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 14180,
+            "dimensions": [
+                1750,
+                417
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "healthy-diet-food.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/healthy-diet-food-800x527.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 90488,
+            "dimensions": [
+                1080,
+                712
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FXF4HVV"
+        },
+        {
+            "filename": "paper-bag-with-vegetables-and-fruits-on-white-background-1.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/paper-bag-with-vegetables-and-fruits-on-white-background-1-800x335.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 32478,
+            "dimensions": [
+                1080,
+                452
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-LRMGT6Y"
+        },
+        {
+            "filename": "img__0006_Layer-2.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/img__0006_Layer-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 50306,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "img__0003_Layer-5.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/img__0003_Layer-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 47988,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-freckled-teenager-wears-round-transparent-g-EPRUCGN"
+        },
+        {
+            "filename": "img__0001_Layer-7.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/img__0001_Layer-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 41345,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-pleasant-looking-ginger-young-e-F9MBGAR"
+        },
+        {
+            "filename": "lemon-fruits.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/lemon-fruits-800x680.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 65762,
+            "dimensions": [
+                1080,
+                919
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-F5XV23Y"
+        },
+        {
+            "filename": "nutritionist-giving-consultation-to-patient-with-healthy-fruit-and-vegetable.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/nutritionist-giving-consultation-to-patient-with-healthy-fruit-and-vegetable-800x298.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 61690,
+            "dimensions": [
+                1080,
+                402
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RL76AST"
+        },
+        {
+            "filename": "apricot-juice-in-glass-healthy-drink.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/apricot-juice-in-glass-healthy-drink-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 71454,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BFJ6R78"
+        },
+        {
+            "filename": "nutritionist-dietitian-woman-at-the-office-hold-apple-in-the-hand.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/nutritionist-dietitian-woman-at-the-office-hold-apple-in-the-hand-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 150421,
+            "dimensions": [
+                1080,
+                1620
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QUAJ5TF"
+        },
+        {
+            "filename": "portrait-of-happy-black-dietitian-in-lab-coat-holding-bowl-of-fresh-fruits-and-vegetables-smiling.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/portrait-of-happy-black-dietitian-in-lab-coat-holding-bowl-of-fresh-fruits-and-vegetables-smiling-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 58200,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RYRY72X"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2063,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1811,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2079,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2193,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2300,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-11.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/logo-11.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1900,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "healthy-food.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/healthy-food-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 90274,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EXWDLUA"
+        },
+        {
+            "filename": "vegetarian-vegetable-salad.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/vegetarian-vegetable-salad-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 120260,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UKAJCVT"
+        },
+        {
+            "filename": "african-american-nutritionist-showing-organic-green-apple-and-using-stethoscope-closeup.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/african-american-nutritionist-showing-organic-green-apple-and-using-stethoscope-closeup-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 58927,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UFT9S75"
+        },
+        {
+            "filename": "nutritionist-dietitian-woman-at-the-office-hold-apple-in-the-hand-1.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/nutritionist-dietitian-woman-at-the-office-hold-apple-in-the-hand-1-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 145686,
+            "dimensions": [
+                1080,
+                1620
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RZ7Q4RP"
+        },
+        {
+            "filename": "img__0007_Layer-1.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/img__0007_Layer-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 42410,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "img__0005_Layer-3.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/img__0005_Layer-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 43481,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-confident-male-entrepreneur-with-postive-smi-BDAU9DK"
+        },
+        {
+            "filename": "img__0004_Layer-4.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/img__0004_Layer-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 40613,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "img__0002_Layer-6.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/img__0002_Layer-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 58477,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/carefree-attractive-girl-with-pleasant-look-enjoys-4GXJZTE"
+        },
+        {
+            "filename": "img__0000_Layer-8.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/img__0000_Layer-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 33914,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/optimistic-positive-handsome-bearded-man-FXXXGY4"
+        },
+        {
+            "filename": "positive-black-lady-nutritionist-holding-orange-half.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/positive-black-lady-nutritionist-holding-orange-half-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 58052,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H6VA37V"
+        },
+        {
+            "filename": "paper-bag-on-a-wooden-background-vegetables-from-the-store.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/paper-bag-on-a-wooden-background-vegetables-from-the-store-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 91775,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-T8QH3PQ"
+        },
+        {
+            "filename": "paper-bag-with-vegetables-and-fruits-on-white-background.jpg",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/paper-bag-with-vegetables-and-fruits-on-white-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/nutrist-v1-error-404.json",
+                    "name": "Nutrist V1 - Error 404"
+                }
+            ],
+            "filesize": 65696,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HTYSXVS"
+        },
+        {
+            "filename": "logo_nutrist_w.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/logo_nutrist_w.png",
+            "templates": [
+                {
+                    "source": "templates\/nutrist-v1-footer.json",
+                    "name": "Nutrist V1 - Footer"
+                }
+            ],
+            "filesize": 4448,
+            "dimensions": [
+                268,
+                91
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_nutrist.png",
+            "thumbnail_url": "https:\/\/preview.moxcreative.com\/nutrist\/wp-content\/uploads\/sites\/2\/2022\/02\/logo_nutrist.png",
+            "templates": [
+                {
+                    "source": "templates\/nutrist-v1-header.json",
+                    "name": "Nutrist V1 - Header"
+                }
+            ],
+            "filesize": 5305,
+            "dimensions": [
+                268,
+                91
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
